@@ -73,7 +73,7 @@ El segundo usuario dibuja algo, con un color inicial aleatorio (los números son
 
 El primer usuario ve lo dibujado por el segundo:
 
-|[](../media/6.png?raw=true)
+![](../media/6.png?raw=true)
 
 Luego, el segundo usuario limpia el tablero:
 
