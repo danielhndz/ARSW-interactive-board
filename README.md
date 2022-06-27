@@ -51,6 +51,38 @@ mvn exec:java -Dexec.mainClass="edu.escuelaing.arsw.labs.board.WebSiteController
 
 Puede conectarse a la aplicación desplegada en [Heroku](https://beautiful-mount-rainier-03359.herokuapp.com/)
 
+Se conecta un primer usuario:
+
+![](../media/1.png?raw=true)
+
+Se conecta un segundo usuario:
+
+![](../media/2.jpeg?raw=true)
+
+El primer usuario dibuja algo, con un color inicial aleatorio:
+
+![](../media/3.png?raw=true)
+
+El segundo usuario lo ve:
+
+![](../media/4.jpg?raw=true)
+
+El segundo usuario dibuja algo, con un color inicial aleatorio (los números son parte de la edición de la imagen) :
+
+![](../media/5.jpeg?raw=true)
+
+El primer usuario ve lo dibujado por el segundo:
+
+|[](../media/6.png?raw=true)
+
+Luego, el segundo usuario limpia el tablero:
+
+![](../media/7.jpeg?raw=true)
+
+Se limpia también para el primer usuario:
+
+![](../media/8.png?raw=true)
+
 ## Built With
 
 - [Maven](https://maven.apache.org/) - Dependency Management
