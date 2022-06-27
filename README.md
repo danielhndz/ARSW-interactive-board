@@ -1,4 +1,4 @@
-# :hammer_and_wrench: Picas y famas
+# :hammer_and_wrench: Interactive board
 
 ## Arquitecturas de Software (ARSW)
 
@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://powerful-ocean-36245.herokuapp.com/)
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://beautiful-mount-rainier-03359.herokuapp.com/)
 
 <br/>
 
@@ -46,10 +46,10 @@ Si salió bien, debería tener un **BUILD SUCCESS** verde.
 ### Using
 
 ```
-mvn exec:java
+mvn exec:java -Dexec.mainClass="edu.escuelaing.arsw.labs.board.WebSiteController"
 ```
 
-Puede conectarse a la aplicación desplegada en [Heroku](https://powerful-ocean-36245.herokuapp.com/)
+Puede conectarse a la aplicación desplegada en [Heroku](https://beautiful-mount-rainier-03359.herokuapp.com/)
 
 ## Built With
 
